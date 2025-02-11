@@ -1,3 +1,1 @@
-# Presentation Template
-
-Cloning this repository ensures a standard structure across all presentations.
+### Lecture: Support Vector Machines - Linear separable, non-linear separable, kernel trick.
